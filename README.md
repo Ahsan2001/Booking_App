@@ -13,9 +13,6 @@
 - Search
 - Drawer Menu
 - Navigation Bar
-- Beautiful UI Design Kit
-- Compatible with Expo
-- Highly modularized codebase
 
 ## App Ui
-<center><a href="https://instamobile.io/app-templates/food-app-template/"><img src="https://www.instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.56.44-PM.png" /></a></center>
+<center><img src="https://www.instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.56.44-PM.png" /></center>
